@@ -36,3 +36,31 @@
 <p> b=int(b)
 <p> print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 <p> print("hasil pembagian {1}/{0}=%d" .format(a,b) %(a/b))
+  
+<p>
+  
+## Tugas 1
+  
+<p>
+  
+## Sourcecode
+  
+<p>
+  
+<p> print ("====================")
+<p> nama_lengkap    = input ("Masukkan nama lengkap :")
+<p> nama_panggilan  = input ("Masukkan nama panggilan :")
+<p> NMP             = input ("Masukkan NPM :")
+<p> tempat_lahir    = input ("Masukkan tempat lahir :")
+<p> tanggal_lahir   = input ("Masukkan tanggal lahir :")
+<p> telepon         = input ("Masukkan telepon :")
+<p> alamat          = input ("Masukkan alamat :")
+
+<p> print ("=====================")
+
+<p> print ("Assalamu'alaikum ...")
+<p> print ("Let me introduce my self.") 
+<p> print ("My name is %s, but you can call me %s. My NMP %s and i was born in %s, date of born %s im very glad if you want to invite my house in %s, so don't forget to call <p> me before with the number %s"% (nama_lengkap,nama_panggilan,NMP,tempat_lahir,tanggal_lahir,alamat,telepon)) 
+
+<p> print ("Thank you")
+  
