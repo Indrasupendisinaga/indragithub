@@ -1,5 +1,5 @@
 # PERTEMUAN 5
-## latihan1
-### latihan1
-#### latihan1
+## tulisan ukuran sedang
+### tulisan ukuran kecil
+#### tulisan sangat kecil
 - sourcecode
